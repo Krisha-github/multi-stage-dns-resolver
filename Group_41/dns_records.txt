@@ -1,0 +1,8 @@
+example.com 93.184.216.34
+openai.com 104.18.33.45
+google.com 142.250.183.14
+iitg.ac.in 14.139.214.90
+microsoft.com 20.112.52.29
+wikipedia.org 208.80.154.224
+python.org 151.101.192.223
+ubuntu.com 185.125.190.29
