@@ -1,7 +1,5 @@
-CS3104L Networks Lab - Assignment 3
-Group 41 - Application #4: Multi-stage DNS Resolving System
-
-ONLY APPLICATION #4 IS IMPLEMENTED.
+CS3104L Networks Laboratory
+Group 41: Multi-stage DNS Resolving System
 
 COMPONENTS
 1. Client application
